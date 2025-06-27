@@ -6,7 +6,7 @@ import {
   FaTwitter,
   FaLinkedinIn,
 } from 'react-icons/fa';
-import blogData from '../../data/blogs.json'
+import blogData from '../../../../data/blogs.json'
 
 export default function BlogDetail({ params }){
 

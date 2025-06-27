@@ -1,6 +1,6 @@
 'use client'
 import Heading from '../components/homeHeading/Heading'
-import TrustedBy from '../components/trustedby/TrustedBy'
+import TrustedBy from '../components/trustedby/Trustedby'
 import Benefits from '../components/donorsBeneifts/Benefits'
 import OurImpactSection from "../components/ourImpact/OurImpactSection";
 import WhyJoinus from "../components/whyJoinUs/WhyJoinUsSection"

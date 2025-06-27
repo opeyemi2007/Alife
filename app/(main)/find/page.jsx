@@ -2,7 +2,7 @@
 'use client'
 
 import React, { useState } from 'react';
-import HospitalCard from '../components/hospitalCard/HospitalCard';
+import HospitalCard from '../../components/hospitalCard/HospitalCard';
 import mockHospitals from '@/data/hospitals.json'
 
 const FindPage = () => {
