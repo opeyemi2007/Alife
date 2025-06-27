@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "importance-of-blood-donation",
+    "title": "The Importance of Regular Blood Donation",
+    "image": "/blog1.jpg",
+    "content": "Blood donation is one of the most impactful ways to save lives...",
+    "author": "Dr. Amina Yusuf",
+    "date": "June 20, 2025",
+    "category": "Health"
+  },
+  {
+    "slug": "5-things-before-donating",
+    "title": "5 Things to Know Before Donating Blood",
+    "image": "/blog2.jpg",
+    "content": "Before your next donation, here are five tips...",
+    "author": "Tunde Adio",
+    "date": "June 10, 2025",
+    "category": "Tips"
+  },
+  {
+    "slug": "blood-donation-facts",
+    "title": "Blood Donation Facts You Might Not Know",
+    "image": "/blog3.jpg",
+    "content": "One pint of blood can save up to three lives...",
+    "author": "Ngozi Okonjo",
+    "date": "June 5, 2025",
+    "category": "Facts"
+  },
+  {
+    "slug": "how-to-prepare-for-donation",
+    "title": "How to Prepare for Your First Blood Donation",
+    "image": "/blog4.jpg",
+    "content": "Preparing well can make your donation smoother...",
+    "author": "Sarah James",
+    "date": "May 30, 2025",
+    "category": "Tips"
+  },
+  {
+    "slug": "benefits-for-donors",
+    "title": "Health Benefits of Being a Blood Donor",
+    "image": "/blog5.jpg",
+    "content": "Donors may enjoy improved cardiovascular health...",
+    "author": "Dr. Kelechi Obi",
+    "date": "May 24, 2025",
+    "category": "Health"
+  },
+  {
+    "slug": "blood-types-explained",
+    "title": "Understanding Blood Types and Compatibility",
+    "image": "/blog6.jpg",
+    "content": "Learn what makes O-negative the universal donor...",
+    "author": "Funmi Adebayo",
+    "date": "May 18, 2025",
+    "category": "Facts"
+  },
+  {
+    "slug": "who-can-donate",
+    "title": "Who Can Donate Blood and How Often?",
+    "image": "/blog7.jpg",
+    "content": "Are you eligible to donate? Here are the guidelines...",
+    "author": "Zainab Musa",
+    "date": "May 12, 2025",
+    "category": "Tips"
+  },
+  {
+    "slug": "blood-bank-process",
+    "title": "What Happens to Your Blood After Donation?",
+    "image": "/blog8.jpg",
+    "content": "Your blood goes through a processing and testing journey...",
+    "author": "Chinedu Nwachukwu",
+    "date": "May 6, 2025",
+    "category": "Facts"
+  },
+  {
+    "slug": "common-myths-busted",
+    "title": "10 Common Blood Donation Myths Busted",
+    "image": "/blog9.jpg",
+    "content": "Think you can't donate because you're underweight? Think again...",
+    "author": "Esther Kolade",
+    "date": "April 29, 2025",
+    "category": "Facts"
+  },
+  {
+    "slug": "donor-stories",
+    "title": "Stories From Our Regular Donors",
+    "image": "/blog10.jpg",
+    "content": "Real experiences that show the joy of giving...",
+    "author": "Michael Abayomi",
+    "date": "April 22, 2025",
+    "category": "Health"
+  },
+  {
+    "slug": "mobile-blood-drives",
+    "title": "How Mobile Blood Drives Work",
+    "image": "/blog11.jpg",
+    "content": "Mobile units are bringing donation opportunities to you...",
+    "author": "Blessing Chukwu",
+    "date": "April 16, 2025",
+    "category": "Health"
+  },
+  {
+    "slug": "donor-eligibility-faqs",
+    "title": "Top FAQs About Donor Eligibility",
+    "image": "/blog12.jpg",
+    "content": "Have a question about eligibility? We’ve got answers...",
+    "author": "Daniel Ekpo",
+    "date": "April 10, 2025",
+    "category": "Tips"
+  },
+  {
+    "slug": "first-donation-tips",
+    "title": "What to Expect on Your First Blood Donation",
+    "image": "/blog13.jpg",
+    "content": "Nervous? Here’s a guide to calm your mind...",
+    "author": "Lilian Odey",
+    "date": "April 3, 2025",
+    "category": "Tips"
+  },
+  {
+    "slug": "urgent-need-rare-types",
+    "title": "Why Rare Blood Types Are Always Needed",
+    "image": "/blog14.jpg",
+    "content": "AB-negative and other rare types save critical lives...",
+    "author": "Uche Agwu",
+    "date": "March 28, 2025",
+    "category": "Facts"
+  },
+  {
+    "slug": "volunteer-opportunities",
+    "title": "Volunteer Opportunities with ALIFE",
+    "image": "/blog15.jpg",
+    "content": "You don’t have to donate blood to make an impact...",
+    "author": "Ifeanyi Ojo",
+    "date": "March 21, 2025",
+    "category": "Health"
+  }
+]

@@ -1,0 +1,42 @@
+ [
+  {
+    "name": "Lagos General Hospital",
+    "address": "1 Broad Street, Lagos Island",
+    "phone": "+234 800 123 4567",
+    "image": "/hospitals/lagos-general.jpg",
+    "verified": true,
+    "slug": "lagos-general"
+  },
+  {
+    "name": "University College Hospital",
+    "address": "Queen Elizabeth Road, Ibadan",
+    "phone": "+234 800 765 4321",
+    "image": "/hospitals/uch.jpg",
+    "verified": true,
+    "slug": "uch-ibadan"
+  },
+  {
+    "name": "Benin Blood Bank",
+    "address": "Ring Road, Benin City",
+    "phone": "+234 800 222 3333",
+    "image": "/hospitals/benin-bank.jpg",
+    "verified": false,
+    "slug": "benin-blood-bank"
+  },
+  {
+    "name": "Kano Central Hospital",
+    "address": "Zaria Road, Kano",
+    "phone": "+234 800 444 5555",
+    "image": "/hospitals/kano-central.jpg",
+    "verified": true,
+    "slug": "kano-central"
+  },
+  {
+    "name": "Enugu Specialist Clinic",
+    "address": "Ogui Road, Enugu",
+    "phone": "+234 800 999 0000",
+    "image": "/hospitals/enugu-clinic.jpg",
+    "verified": false,
+    "slug": "enugu-clinic"
+  }
+]

@@ -1,0 +1,54 @@
+.primaryBtn{
+    background: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.primaryBtn:hover{
+    background: rgba(255, 0, 0, 0.623);
+}
+
+.secondaryBtn{
+    background: #e63946;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    border: none;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.secondaryBtn:hover{
+    background: #e03d3d;
+}
+
+.outlineBtn{
+    background: transparent;
+    border: 1.2px solid #e63946;
+    color: #e63946;
+    padding: 0.75rem 1.2rem;
+    border-radius: 8px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3 ease
+}
+
+.outlineBtn:hover{
+    background: #fceaea;
+}
+
+.disabledBtn{
+    background: #ccc;
+    color: #666;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    border: none;
+    cursor: not-allowed;
+    opacity: 0.6;
+}

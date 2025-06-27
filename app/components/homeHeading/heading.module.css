@@ -1,0 +1,66 @@
+.hero {
+    width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 80vh;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.content {
+  flex: 1;
+  width: 100%;
+}
+
+.content h1 {
+  font-size: 3.5rem;
+  color: #111;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.content h1 span {
+  color: #e63946;
+  font-weight: 700;
+}
+
+.content p {
+  font-size: 1.125rem;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  height: 350px;
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.image {
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+
+@media screen and (max-width: 480px) {
+  .hero{
+    flex-direction: column;
+  }
+
+  .content h1{
+    font-size: 25px;
+  }
+
+  .imageWrapper{
+    height: 40%;
+    background: red;
+  }
+
+}
