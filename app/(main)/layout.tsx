@@ -8,7 +8,7 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const etadata = {
+export const metadata = {
   title: 'ALIFE',
   description: 'Find and connect with blood donors nearby.',
 }
