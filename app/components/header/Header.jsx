@@ -52,17 +52,13 @@ const Header = () => {
                                     })}>{route.label}</li>
                                 </Link>
                             ))}
-                        <Link href='/auth/signupentry' legacyBehavior>
-                            <a>
-                            <Button>Register</Button>
-                            </a>
-                        </Link>
+                            <Link href='/auth/signupentry'>
+                                <Button>Register</Button>
+                            </Link>
 
-                        <Link href="/auth/authentry" legacyBehavior>
-                            <a>
+                            <Link href="/auth/authentry">
                                 <Button type="outlineBtn">Login</Button>
-                            </a>
-                        </Link>
+                            </Link>
                         </ul>
                     </nav>
 
@@ -79,16 +75,12 @@ const Header = () => {
                             </Link>
                         ))}
 
-                        <Link href='/auth/signupentry' legacyBehavior>
-                            <a>
+                        <Link href='/auth/signupentry'>
                             <Button>Register</Button>
-                            </a>
                         </Link>
 
-                        <Link href="/auth/authentry" legacyBehavior>
-                            <a>
-                                <Button type="outlineBtn">Login</Button>
-                            </a>
+                        <Link href="/auth/authentry">
+                            <Button type="outlineBtn">Login</Button>
                         </Link>
 
                     </div>

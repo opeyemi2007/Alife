@@ -1,4 +1,4 @@
-
+'use client'
 import Image from 'next/image';
 import Link from 'next/link';
 import {
@@ -12,7 +12,7 @@ export default function BlogDetail({ params }){
 
   const blog = blogData.find((b) => b.slug === params.slug);
 
-  const related = blogData.filter((b) => b.slug !== slug && b.category === blog?.category);
+  const related = blogData.filter((b) => b.slug !== blog.slug && b.category === blog?.category);
 
   if (!blog) {
     return <p className="p-10 text-center">Loading...</p>;

@@ -55,7 +55,7 @@ const BlogsPage = () => {
       <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {filteredBlogs.map((blog) => (
           <div
-            key={blog.id}
+            key={blog.slug}
             className="bg-gray-50 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-all"
           >
             <div className="relative w-full h-48">
