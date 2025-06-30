@@ -6,6 +6,7 @@
   min-height: 80vh;
   gap: 2rem;
   flex-wrap: wrap;
+  background: rgba(255, 255, 255, 0.507);
 }
 
 .content {
