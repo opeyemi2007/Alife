@@ -8,6 +8,9 @@ import BodyWrapper from './components/bodywrapper/BodyWrapper';
 export const metadata = {
   title: 'ALIFE',
   description: 'Find and connect with blood donors nearby.',
+  icons: {
+    icon: "/alifenobg-Logo.png"
+  }
 };
 
 const geistSans = Geist({

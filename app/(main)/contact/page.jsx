@@ -3,6 +3,11 @@
 import React from 'react';
 import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaFacebookF, FaTwitter, FaLinkedinIn } from 'react-icons/fa';
 
+export const metadata = {
+  title: 'ALIFE | Contact us',
+  description: 'Find and connect with blood donors nearby.',
+}
+
 const Contact = () => {
   return (
     <section className="w-full py-16 px-6 md:px-20 bg-white">
