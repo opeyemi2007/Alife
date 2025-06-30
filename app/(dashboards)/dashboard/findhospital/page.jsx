@@ -1,4 +1,4 @@
-import FidHospital from './FindHospital'
+import FindHospital from './FindHospital'
 
 export const metadata = {
   title: 'Find Hospital | Donor Dashboard - ALIFE',
